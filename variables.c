@@ -3,4 +3,6 @@ void main()
 {
 int a=10; //we use variable to store data in memory location. we can use variable to store data of different types like int, float, char etc.
 int b=20;
+ int sum=a+b; 
+ printf("Sum is: %d", sum);
 }
